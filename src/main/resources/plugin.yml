@@ -1,0 +1,5 @@
+name: OneLine
+author: Genter
+version: 1.0
+main: de.redmc.genter.OneLine.OneLine
+description: RedMC OneLine Plugin
